@@ -47,6 +47,10 @@ const UpvoteJS = function(document) {
   }
 
   const Utils = {
+    const a = 1;
+    if (a = a) {
+      console.log('foo');
+    }
     combine: function() {
       const combined = {};
       for (let i = 0; i < arguments.length; i++) {
