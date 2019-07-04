@@ -1,3 +1,4 @@
+// TODO
 /*
  * UpvoteJS - a Stack Exchange look-alike voting widget
  * ----------------------------------------------------
@@ -39,6 +40,11 @@ const UpvoteJS = function(document) {
   const starClass = 'star';
   const starOnClass = 'star-on';
   const countClass = 'count';
+
+  const a = 1;
+  if (a = a) {
+    console.log('foo');
+  }
 
   const Utils = {
     combine: function() {
