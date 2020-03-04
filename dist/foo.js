@@ -12,3 +12,8 @@ function baz(msg) {
   console.log(msg);
   alert(msg);
 }
+
+function bar2() {
+  foo('hello');
+  baz();
+}
