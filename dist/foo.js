@@ -5,5 +5,10 @@ function foo() {
 
 function bar() {
   foo('hello');
+  baz();
 }
 
+function baz(msg) {
+  console.log(msg);
+  alert(msg);
+}
