@@ -21,3 +21,7 @@ function bar2() {
 function bar3() {
   foo('hello');
 }
+
+function bar4() {
+  foo('hello');
+}
