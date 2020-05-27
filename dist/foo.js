@@ -17,3 +17,7 @@ function bar2() {
   foo('hello');
   baz();
 }
+
+function bar3() {
+  foo('hello');
+}
