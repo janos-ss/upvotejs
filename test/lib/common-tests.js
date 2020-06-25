@@ -455,6 +455,10 @@ const Tests = {
         });
       });
     });
+
+    describe('1 + 2 is 3', () => {
+      assert.equal(Upvote.plus(1, 2), 3);
+    });
   }
 };
 

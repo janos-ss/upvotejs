@@ -369,5 +369,6 @@ const UpvoteJS = function(document) {
   if (!noGlobal) {
     window.Upvote = Upvote;
   }
+  Upvote.plus = function plus(a, b) { return a + b; };
   return Upvote;
 });
