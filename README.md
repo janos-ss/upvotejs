@@ -1,3 +1,5 @@
+Mover Tela de informação sobre TFA para o módulo.
+
 UpvoteJS
 ========
 
