@@ -1,3 +1,5 @@
+test non-latin
+
 UpvoteJS
 ========
 
