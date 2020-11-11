@@ -1,3 +1,5 @@
+// test
+
 function foo() {
   console.log('foo');
   bar();
