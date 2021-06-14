@@ -3,5 +3,5 @@ function foo() {
 }
 
 function bar(a) {
-  foo(a, a, a);
+  foo(a, a, 1);
 }
