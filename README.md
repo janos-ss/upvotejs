@@ -23,7 +23,7 @@ and the star are rendered based on the HTML markup alone.
 
 Include the stylesheet in your page's `<head>` element, for example:
 
-    <link rel="stylesheet" href="dist/upvotejs/upvotejs.css">
+    <link rel="stylesheet" href="src/upvotejs/upvotejs.css">
 
 Make sure the image `upvotejs.svg` is present in the same directory as the `upvotejs.css` file.
 
@@ -53,7 +53,7 @@ However, storing the state on some backend is still out of scope in this mode.
 
 Include the JavaScript sources in your page's `<head>` element, for example:
 
-    <script src="dist/upvotejs/upvotejs.vanilla.js"></script>
+    <script src="src/upvotejs/upvotejs.vanilla.js"></script>
 
 Create the Upvote widget controller:
 
@@ -110,9 +110,9 @@ It's possible to use the package through jQuery, if you prefer (though not clear
 
 Include the following in `<head>`:
 
-    <link rel="stylesheet" href="dist/upvotejs/upvotejs.css">
-    <script src="dist/upvotejs/upvotejs.vanilla.js"></script>
-    <script src="dist/upvotejs/upvotejs.jquery.js"></script>
+    <link rel="stylesheet" href="src/upvotejs/upvotejs.css">
+    <script src="src/upvotejs/upvotejs.vanilla.js"></script>
+    <script src="src/upvotejs/upvotejs.jquery.js"></script>
 
 Make sure the image `upvotejs.svg` is present in the same directory as the `upvotejs.css` file.
 

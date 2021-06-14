@@ -8,7 +8,7 @@ const CliSetup = () => {
     jQuery: jQuery,
     Utils: require('./utils.js').Utils(window2, jQuery),
     Tests: require('./common-tests.js').Tests,
-    Upvote: require('../../dist/upvotejs/upvotejs.vanilla.js')(window2)
+    Upvote: require('../../src/upvotejs/upvotejs.vanilla.js')(window2)
   };
 };
 

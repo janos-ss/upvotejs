@@ -2,7 +2,7 @@ if (typeof(require) !== 'undefined') {
   var Setup = require('./lib/setup.js').Setup;
   jQuery = Setup.jQuery;
   Upvote = Setup.Upvote;
-  require('../dist/upvotejs/upvotejs.jquery.js');
+  require('../src/upvotejs/upvotejs.jquery.js');
 
   $ = Setup.jQuery;
 }

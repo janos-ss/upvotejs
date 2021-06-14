@@ -10,10 +10,10 @@
   "keywords": [
     "upvote"
   ],
-  "main": "./dist/upvotejs/upvotejs.vanilla.js",
-  "style": "./dist/upvotejs/upvotejs.css",
+  "main": "./src/upvotejs/upvotejs.vanilla.js",
+  "style": "./src/upvotejs/upvotejs.css",
   "files": [
-    "./dist/upvotejs/upvotejs.svg"
+    "./src/upvotejs/upvotejs.svg"
   ],
   "homepage": "https://janosgyerik.github.io/upvotejs",
   "author": {
